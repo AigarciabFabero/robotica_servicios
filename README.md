@@ -67,3 +67,11 @@ Simular Turtlebot 4 en Gazebo Ignition y controlarlo utilizando ROS 2.
   - Implementar interacción por voz para proporcionar retroalimentación sobre la navegación.
   - Cambiar dinámicamente los planificadores de navegación según factores ambientales.
 - **Herramientas**: ROS 2 Humble, Nav2, Reconocimiento de Voz, TTS (Texto a Voz).
+
+## Licencia PDF
+
+Los guiones de las prácticas incluidos en este repositorio están bajo una licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+
+**Autor:** Rodriguez Lera, Francisco Javier
+
+Más información sobre la licencia: [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
