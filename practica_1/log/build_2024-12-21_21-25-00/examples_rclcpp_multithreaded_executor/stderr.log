@@ -1,0 +1,5 @@
+gmake[2]: *** [CMakeFiles/multithreaded_executor.dir/build.make:76: CMakeFiles/multithreaded_executor.dir/multithreaded_executor.cpp.o] Interrupción
+gmake[1]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[1]: *** Se espera a que terminen otras tareas....
+gmake[1]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake: *** [Makefile:146: all] Error 2

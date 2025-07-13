@@ -1,0 +1,9 @@
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** Se espera a que terminen otras tareas....
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** Se espera a que terminen otras tareas....
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/timer_lambda.dir/all] Error 2
+gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/timer_member_function.dir/all] Error 2
+gmake: *** [Makefile:146: all] Interrupción

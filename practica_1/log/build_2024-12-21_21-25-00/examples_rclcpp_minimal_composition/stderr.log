@@ -1,0 +1,4 @@
+gmake[2]: *** [CMakeFiles/composition_nodes.dir/build.make:90: CMakeFiles/composition_nodes.dir/src/subscriber_node.cpp.o] Interrupción
+gmake[2]: *** [CMakeFiles/composition_nodes.dir/build.make:76: CMakeFiles/composition_nodes.dir/src/publisher_node.cpp.o] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:143: CMakeFiles/composition_nodes.dir/all] Interrupción
+gmake: *** [Makefile:146: all] Interrupción

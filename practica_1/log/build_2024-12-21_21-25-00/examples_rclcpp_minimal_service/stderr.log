@@ -1,0 +1,3 @@
+gmake[2]: *** [CMakeFiles/service_main.dir/build.make:76: CMakeFiles/service_main.dir/main.cpp.o] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/service_main.dir/all] Interrupción
+gmake: *** [Makefile:146: all] Interrupción

@@ -1,0 +1,9 @@
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** Se espera a que terminen otras tareas....
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** [CMakeFiles/action_server_member_functions.dir/build.make:76: CMakeFiles/action_server_member_functions.dir/member_functions.cpp.o] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/action_server_member_functions.dir/all] Interrupción
+gmake[1]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[1]: *** Se espera a que terminen otras tareas....
+gmake[1]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake: *** [Makefile:146: all] Error 2

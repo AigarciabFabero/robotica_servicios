@@ -1,0 +1,59 @@
+[0.030s] Invoking command in '/home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/examples/rclcpp/timers/minimal_timer -DCMAKE_INSTALL_PREFIX=/home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/install/examples_rclcpp_minimal_timer
+[5.547s] -- The C compiler identification is GNU 11.4.0
+[5.548s] -- The CXX compiler identification is GNU 11.4.0
+[5.548s] -- Detecting C compiler ABI info
+[5.551s] -- Detecting C compiler ABI info - done
+[5.553s] -- Check for working C compiler: /usr/bin/cc - skipped
+[5.553s] -- Detecting C compile features
+[5.553s] -- Detecting C compile features - done
+[5.553s] -- Detecting CXX compiler ABI info
+[5.553s] -- Detecting CXX compiler ABI info - done
+[5.554s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[5.554s] -- Detecting CXX compile features
+[5.554s] -- Detecting CXX compile features - done
+[5.554s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.554s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[5.554s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[5.554s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[5.554s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[5.554s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[5.554s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.554s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.554s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.554s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.554s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[5.554s] -- Found FastRTPS: /opt/ros/humble/include  
+[5.555s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.555s] -- Looking for pthread.h
+[5.555s] -- Looking for pthread.h - found
+[5.555s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.555s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.555s] -- Found Threads: TRUE  
+[5.555s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.555s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.555s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.555s] -- Configured cppcheck include dirs: 
+[5.555s] -- Configured cppcheck exclude dirs and/or files: 
+[5.555s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.555s] -- Configured cpplint exclude dirs and/or files: 
+[5.555s] -- Added test 'lint_cmake' to check CMake code style
+[5.555s] -- Added test 'uncrustify' to check C / C++ code style
+[5.556s] -- Configured uncrustify additional arguments: 
+[5.556s] -- Added test 'xmllint' to check XML markup files
+[5.556s] -- Configuring done
+[5.556s] -- Generating done
+[5.556s] -- Build files have been written to: /home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/build/examples_rclcpp_minimal_timer
+[5.578s] Invoked command in '/home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/examples/rclcpp/timers/minimal_timer -DCMAKE_INSTALL_PREFIX=/home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/install/examples_rclcpp_minimal_timer
+[5.578s] Invoking command in '/home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/build/examples_rclcpp_minimal_timer -- -j12 -l12
+[5.650s] [ 25%] [32mBuilding CXX object CMakeFiles/timer_lambda.dir/lambda.cpp.o[0m
+[5.709s] [ 50%] [32mBuilding CXX object CMakeFiles/timer_member_function.dir/member_function.cpp.o[0m
+[6.290s] gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+[6.290s] gmake[2]: *** Se espera a que terminen otras tareas....
+[6.290s] gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+[6.290s] gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+[6.290s] gmake[2]: *** Se espera a que terminen otras tareas....
+[6.290s] gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+[6.290s] gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/timer_lambda.dir/all] Error 2
+[6.290s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/timer_member_function.dir/all] Error 2
+[6.290s] gmake: *** [Makefile:146: all] Interrupción
+[6.308s] Invoked command in '/home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/build/examples_rclcpp_minimal_timer' returned '-2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/aitor/ros2_ws/src/laboratorio-1-AigarciabFabero/practica_1/build/examples_rclcpp_minimal_timer -- -j12 -l12

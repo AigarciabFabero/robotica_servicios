@@ -1,0 +1,17 @@
+gmake[2]: *** [CMakeFiles/publisher_lambda.dir/build.make:76: CMakeFiles/publisher_lambda.dir/lambda.cpp.o] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:147: CMakeFiles/publisher_lambda.dir/all] Interrupción
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** Se espera a que terminen otras tareas....
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[1]: *** [CMakeFiles/Makefile2:251: CMakeFiles/publisher_wait_for_all_acked.dir/all] Error 2
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** Se espera a que terminen otras tareas....
+gmake[2]: *** wait: No hay ningún proceso hijo.  Alto.
+gmake[2]: *** [CMakeFiles/publisher_member_function_with_type_adapter.dir/build.make:76: CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:199: CMakeFiles/publisher_member_function_with_type_adapter.dir/all] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:277: CMakeFiles/publisher_not_composable.dir/all] Error 2
+gmake[2]: *** [CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/build.make:76: CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:225: CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/all] Interrupción
+gmake[2]: *** [CMakeFiles/publisher_member_function.dir/build.make:76: CMakeFiles/publisher_member_function.dir/member_function.cpp.o] Interrupción
+gmake[1]: *** [CMakeFiles/Makefile2:173: CMakeFiles/publisher_member_function.dir/all] Interrupción
+gmake: *** [Makefile:146: all] Interrupción
